@@ -1,4 +1,4 @@
-# Spatial Information Technology
+# Spatial Information Technology*	
 Welcome to the World of Spatial Information Technology. Here you will learn new GIS Technologies i.e Geospatial & Data management, Open source tools for contributing to implement large enterprise projects, big database and enterprise wise applications including real data transfer.
 
 ## Setting up python environment (`Windows`)
